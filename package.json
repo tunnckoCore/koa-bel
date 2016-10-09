@@ -1,6 +1,6 @@
 {
   "name": "koa-bel",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "View engine for `koa` without any deps, built to be used with `bel`. Any other engines that can be written in `.js` files would work, too.",
   "repository": "tunnckoCore/koa-bel",
   "author": "Charlike Mike Reagent <@tunnckoCore> (http://www.tunnckocore.tk)",
