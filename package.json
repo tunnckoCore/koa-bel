@@ -38,7 +38,33 @@
     "index.js",
     "views/"
   ],
-  "keywords": [],
+  "keywords": [
+    "any",
+    "bel",
+    "body",
+    "context",
+    "ctx",
+    "data",
+    "dom",
+    "easy",
+    "engine",
+    "express",
+    "file",
+    "files",
+    "javascript",
+    "js",
+    "jstemplate",
+    "koa",
+    "koajs",
+    "locals",
+    "render",
+    "simple",
+    "state",
+    "template",
+    "tpl",
+    "view",
+    "views"
+  ],
   "config": {
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
