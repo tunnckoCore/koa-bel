@@ -53,6 +53,15 @@
     ],
     "lint": {
       "reflinks": true
-    }
+    },
+    "related": {
+      "list": []
+    },
+    "reflinks": [
+      "bel",
+      "koa",
+      "koa-convert",
+      "yo-yo"
+    ]
   }
 }
