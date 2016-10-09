@@ -77,17 +77,33 @@
     "tasks": [
       "readme"
     ],
-    "lint": {
-      "reflinks": true
-    },
     "related": {
-      "list": []
+      "list": [
+        "is-match-ip",
+        "nanomatch",
+        "micromatch",
+        "bel",
+        "yo-yo",
+        "choo",
+        "vel",
+        "morphdom",
+        "koa",
+        "bash-glob",
+        "koa-better-body",
+        "koa-ip-filter",
+        "ip-filter"
+      ]
     },
     "reflinks": [
       "bel",
       "koa",
       "koa-convert",
-      "yo-yo"
-    ]
+      "yo-yo",
+      "ip-filter",
+      "micromatch"
+    ],
+    "lint": {
+      "reflinks": true
+    }
   }
 }
